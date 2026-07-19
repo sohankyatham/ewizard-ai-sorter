@@ -54,7 +54,6 @@ E-Wizard addresses this problem by combining computer vision, embedded systems, 
 ### Machine Learning
 
 - YOLOv8
-- Ultralytics
 - OpenCV
 
 ### Hardware
@@ -62,7 +61,6 @@ E-Wizard addresses this problem by combining computer vision, embedded systems, 
 - Raspberry Pi
 - USB Camera
 - Servo Motors
-- GPIO
 
 ### Software
 
