@@ -119,4 +119,30 @@ timestamp,label,confidence,bin,overridden
 2026-02-08T07:37:56,cpu,0.9800606966018676,🧩 Components (CPU/RAM),False
 2026-02-08T07:38:46,unknown,0.1693387180566787,❓ Unknown / Manual Review,False
 2026-02-08T07:38:51,unknown,0.1693387180566787,❓ Unknown / Manual Review,False
-2026-02-08T07:41:04,cpu,0.9800606966018677,🧩 Components (CPU/RAM),False
+2026-02-08T07:41:04,cpu,0.9800606966018676,🧩 Components (CPU/RAM),False
+2026-02-08T10:07:20,ram_stick,0.4410008490085602,🧩 Components (CPU/RAM),False
+2026-02-08T10:07:51,ram_stick,0.8626245260238647,🧩 Components (CPU/RAM),False
+2026-02-08T10:08:38,cpu,0.9800606966018676,🧩 Components (CPU/RAM),False
+2026-02-08T10:15:29,cpu,0.9800606966018676,🧩 Components (CPU/RAM),False
+2026-02-08T10:18:00,cpu,0.9800606966018676,🧩 Components (CPU/RAM),False
+2026-02-08T10:25:52,ram_stick,0.5656929612159729,🧩 Components (CPU/RAM),False
+2026-02-08T10:28:55,flash_drive,0.3047118186950683,💾 Storage (USB/Flash Drives),False
+2026-02-08T10:31:21,unknown,0.0643468797206878,❓ Unknown / Manual Review,False
+2026-02-08T10:31:29,unknown,0.0643468797206878,❓ Unknown / Manual Review,False
+2026-02-08T10:31:38,unknown,0.0643468797206878,❓ Unknown / Manual Review,False
+2026-02-08T10:31:55,ram_stick,0.4340858459472656,🧩 Components (CPU/RAM),False
+2026-02-08T10:33:04,unknown,0.0580116286873817,❓ Unknown / Manual Review,False
+2026-02-08T10:40:17,cpu,0.9800606966018676,🧩 Components (CPU/RAM),False
+2026-02-08T10:40:46,ram_stick,0.5038478970527649,🧩 Components (CPU/RAM),False
+2026-02-08T10:50:55,flash_drive,0.3047118186950683,💾 Storage (USB/Flash Drives),False
+2026-02-08T11:20:49,ram_stick,0.8713240623474121,🧩 Components (CPU/RAM),False
+2026-02-08T11:33:48,cpu,0.9800606966018676,🧩 Components (CPU/RAM),False
+2026-02-08T11:35:01,unknown,0.0,❓ Unknown / Manual Review,False
+2026-02-08T11:42:16,cpu,0.9800606966018676,🧩 Components (CPU/RAM),False
+2026-02-08T11:43:07,unknown,0.0,❓ Unknown / Manual Review,False
+2026-02-08T11:43:27,ram_stick,0.4812732338905334,🧩 Components (CPU/RAM),False
+2026-02-08T11:54:11,cpu,0.9800606966018676,🧩 Components (CPU/RAM),False
+2026-02-08T12:06:52,unknown,0.1113710850477218,❓ Unknown / Manual Review,False
+2026-02-08T12:07:10,cpu,0.9800606966018676,🧩 Components (CPU/RAM),False
+2026-02-09T14:14:25,cpu,0.9800606966018676,🧩 Components (CPU/RAM),False
+2026-02-10T11:34:49,cpu,0.9800606966018677,🧩 Components (CPU/RAM),False
